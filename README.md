@@ -1,6 +1,5 @@
 
-ChatGPT
-Certainly! Here's a template you can use for a GitHub README about database basics:
+
 
 Database Basics
 This repository aims to provide a comprehensive overview of database basics, covering fundamental concepts, terminology, and commonly used database systems.
